@@ -9,7 +9,7 @@ class Dog
   end
 
   def breed=(asdfa)
-    @breed=asdf
+    @breed=asdfa
   end
 
   def breed
